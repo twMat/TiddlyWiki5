@@ -15,5 +15,6 @@ Available character formatting includes:
 * `^^superscript^^` for ^^superscripted^^ text ({{$:/core/images/superscript}})
 * `,,subscript,,` for ,,subscripted,, text ({{$:/core/images/subscript}})
 * `~~strikethrough~~` for ~~strikethrough~~ text ({{$:/core/images/strikethrough}})
+* `<br>` for line break in text (carriage-return)
 
 See also: [[Code Blocks in WikiText]]
