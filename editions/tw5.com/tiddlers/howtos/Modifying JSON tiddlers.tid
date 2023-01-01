@@ -6,8 +6,6 @@ type: text/vnd.tiddlywiki
 
 See [[JSON in TiddlyWiki]] for an overview of using JSON in TiddlyWiki.
 
-Note that 
-
 !! Using ActionSetFieldWidget and ActionListopsWidget
 
 The widgets ActionSetFieldWidget and ActionListopsWidget can manipulate named properties of data tiddlers by indicating the name of the property in the $index attribute.
